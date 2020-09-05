@@ -1,0 +1,7 @@
+D:\Learning Goals\Q4-2019\Projects\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+D:\Learning Goals\Q4-2019\Projects\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe
+D:\Learning Goals\Q4-2019\Projects\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.pdb
+D:\Learning Goals\Q4-2019\Projects\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csprojAssemblyReference.cache
+D:\Learning Goals\Q4-2019\Projects\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
+D:\Learning Goals\Q4-2019\Projects\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.exe
+D:\Learning Goals\Q4-2019\Projects\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.pdb
